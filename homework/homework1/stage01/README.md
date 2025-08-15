@@ -3,27 +3,25 @@
 
 ## Problem Statement
 How has China managed to create more economic stability over the past two decades?
-Under high unemployment and low personal finance stability for younger individuals
-
-
+1. Under high unemployment and low personal finance stability for younger individuals
 
 ## Stakeholder & User
 <Who decides? Who uses the output? Timing & workflow context>
 
 ## Useful Answer & Decision
 <Descriptive / Predictive / Causal; metric; artifact to deliver>
-Type: Predictive and causal
-Metrics: GDP growth rate, inflation trend, unemployment rate, historical average salary over different field of work
-Deliverable: import and exports (consumptions trends), investment trends…
+1. Type: Predictive and causal
+2. Metrics: GDP growth rate, inflation trend, unemployment rate, historical average salary over different field of work
+3. Deliverable: import and exports (consumptions trends), investment trends…
 
 ## Assumptions & Constraints
 <Bullets: data availability, capacity, latency, compliance, etc.>
-Data availability:
-Assumptions: Official GDP, CPI, PPI, trade, investment, and consumption data for the past 20 years
-Constraint: limited real-time data
-Technical capacity: Python, SQL
-Latency tolerance: Quarterly reports 
-Compliance & privacy: Only aggregated macroeconomic data used, government level confidentiality, lack corporate viewpoint 
+1. Data availability:
+   Assumptions: Official GDP, CPI, PPI, trade, investment, and consumption data for the past 20 years
+   Constraint: limited real-time data
+3. Technical capacity: Python, SQL
+4. Latency tolerance: Quarterly reports 
+5. Compliance & privacy: Only aggregated macroeconomic data used, government level confidentiality, lack corporate viewpoint 
 
 
 ## Known Unknowns / Risks
