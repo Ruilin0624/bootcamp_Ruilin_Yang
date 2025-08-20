@@ -1,0 +1,16 @@
+# Ignore local class materials
+class_materials/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore environment files
+.env
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+env/
+venv/
