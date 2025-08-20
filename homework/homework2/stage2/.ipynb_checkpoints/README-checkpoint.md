@@ -1,3 +1,0 @@
-The purpose of this project is to develop a data-driven framework for monitoring and forecasting gold prices, with a focus on volatility, macroeconomic drivers, and global shocks. Using official statistics, market indicators, and auxiliary data sources, the project aims to deliver timely and actionable insights for investors, policymakers, and researchers.
-
-The framework will assess how GDP growth, inflation, oil prices, central bank gold demand, and crisis events shape the trajectory of gold. Special attention will be given to the United States, since gold is priced in USD, while also considering global dynamics such as central bank diversification away from the dollar.
